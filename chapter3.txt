@@ -1,0 +1,2 @@
+this is chapter 3
+usde git log for details heat master shows the current status
